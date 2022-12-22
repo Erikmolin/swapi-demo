@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "swapi.baseUrl",
+      "type": "java.lang.String",
+      "description": "Description for swapi.baseUrl."
+  }
+] }
